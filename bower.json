@@ -1,0 +1,20 @@
+{
+  "name": "atns-ng-routefallback",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tbaum/atns-ng-routefallback",
+  "authors": [
+    "Thomas Baum <thomas.baum@atns.de>"
+  ],
+  "description": "ng-route fallback",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": "./routeFallback.js",
+  "dependencies": {
+    "angular-route": "~1.x"
+  }
+}
